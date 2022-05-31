@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300&display=swap');
+
+* {
+    text-align: center;
+    line-height: 1.2;
+    font-family: 'Libre Franklin';
+    color: white;
+    background-color: #0F0F0F;
+}
+
+p {
+    font-style: italic;
+}
+
+table {
+    margin: 10px auto;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    width: 175px;
+    height: 25px;
+    font-family: monospace;
+    font-size: 13px;
+    background-color: #1C1C1C;
+}
+
+h1 {
+    font-family: 'Jua';
+    font-size: 80px;
+    background-color: #1C1C1C;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h2 {
+    margin-top: 25px;
+    font-size: 35px;
+}
+
+main {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+footer, h3 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: #1C1C1C;
+}
+
+th {
+    border: 1px solid black;
+    width: 175px;
+    height: 25px;
+    font-weight: bold;
+    background-color: #1F1F1F;
+}
+
+.aquamarine {
+    background-color: aquamarine;
+}
+
+.darkgoldenrod {
+    background-color: darkgoldenrod;
+}
+
+.lavender {
+    background-color: lavender;
+}
+
+.mediumorchid {
+    background-color: mediumorchid;
+}
+
+.sienna {
+    background-color: sienna;
+}
+
+.hexcolor1 {
+    background-color: #DEBF5B;
+}
+
+.hexcolor2 {
+    background-color: #A53CD8;
+}
+
+.hexcolor3 {
+    background-color: #6DF623;
+}
+
+.hexcolor4 {
+    background-color: #A0BFC8;
+}
+
+.hexcolor5 {
+    background-color: #7A0;
+}
+
+.rgbcolor1 {
+    background-color: rgb(100, 230, 74);
+}
+
+.rgbcolor2 {
+    background-color: rgb(179, 29, 123);
+}
+
+.rgbcolor3 {
+    background-color: rgb(99, 38, 222);
+}
+
+.rgbcolor4 {
+    background-color: rgb(255, 139, 69);
+}
+
+.rgbcolor5 {
+    background-color: rgba(188, 86, 205, 0.7);
+}
+
+.hslcolor1 {
+    background-color: hsl(275, 87%, 60%);
+}
+
+.hslcolor2 {
+    background-color: hsl(167, 46%, 80%);
+}
+
+.hslcolor3 {
+    background-color: hsl(340, 28%, 95%);
+}
+
+.hslcolor4 {
+    background-color: hsl(132, 100%, 22%);
+}
+
+.hslcolor5 {
+    background-color: hsla(18, 18%, 18%, 0.5);
+}
